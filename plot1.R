@@ -1,4 +1,5 @@
 library(sqldf)
+library(lubridate)
 dir="C:/Users/dwilliams/Dropbox/Coursework/Coursera/DataScienceSpec/Exploratory Data Analysis"
 setwd(dir)
 file = "./data/household_power_consumption.txt"
